@@ -9,8 +9,7 @@
 This methodology employed the CSC reporter in combination with the high-throughput imaging-based analyses for in vitro tumorigenic assay, and anticancer drug cytotoxicity testing in cholangiocarcinoma (CCA). We provided [step-by-step experimental methodology in protocol.io](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02), simple R-based programming tutorial for both assays.
 
 ## Installation requirements
-R 
-R studio 
+R and R studio 
 
 See the [documentation] (https://rstudio-education.github.io/hopr/starting.html) for R and R studio installation details.
 
