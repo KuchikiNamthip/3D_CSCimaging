@@ -11,7 +11,7 @@ This methodology employed the CSC reporter in combination with the high-throughp
 ## Installation requirements
 R and R studio 
 
-See the [documentation] (https://rstudio-education.github.io/hopr/starting.html) for R and R studio installation details.
+See the [documentation](https://rstudio-education.github.io/hopr/starting.html) for R and R studio installation details.
 
 ## Usage
 For the analysis tutorial composed of 3 main coding parts.
