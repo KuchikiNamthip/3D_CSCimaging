@@ -1,6 +1,6 @@
 ## High-throughput image-based analyses of live reporter-expressing cancer stem cells in 3D culture for studying tumorigenesis and cancer stem cell-mediated anticancer drug response. 
 
-[![R Version](https://img.shields.io/badge/_4.3.3-blue?logo=R)]
+![R Version](https://img.shields.io/badge/_4.3.3-blue?logo=R)
 [![protocol.io](https://img.shields.io/badge/protocols.io-DOI...-blue?logo=protocols.io)](https://www.protocols.io/private/ECE27AC5049811EFBE540A58A9FEAC02)
 [![DOI](https://img.shields.io/badge/DOI-....-orange)](http://dx.doi.org/)
 
