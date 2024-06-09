@@ -1,0 +1,5 @@
+".y.","group1","group2","p","p.adj","p.format","p.signif","method"
+"Normalized_SpheroidGFPint","0","6",0.027568284684196,0.074,"0.028","*","T-test"
+"Normalized_SpheroidGFPint","0","5",0.0246350597689703,0.074,"0.025","*","T-test"
+"Normalized_SpheroidGFPint","0","4",0.0150391297404617,0.06,"0.015","*","T-test"
+"Normalized_SpheroidGFPint","0","3",0.340693958586123,0.34,"0.341","ns","T-test"
